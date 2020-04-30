@@ -49,17 +49,31 @@ First, we created the BayesianModel by defining the nodes and edges of the DAG. 
 
 ### Dependencies
 Language	Package
+
 Python	pyro
+
 Python	pgmpy
+
 Python	pandas
+
 Python	numpy
+
 Python	fuzzywuzzy
+
 Python	pycountry-convert
+
 Python	matplotlib
+
 Python	beautifulsoup
+
 Python	wikipedia
+
 Python	wptools
+
 Python	tqdm
+
 Python	requests
+
 R	bnlearn
+
 R	graphviz
